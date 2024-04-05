@@ -2,8 +2,8 @@ body{
     background-image:url("https://www.scribbler.com/Images/Product/Default/xlarge/LST13.jpg");
      background-position: top;
      background-size: contain;
-    height: 100vh;
-    overflow: hidden;
+    #height: 100vh;
+    #overflow: hidden;
   }
 
   .rainbow-text-loop {
